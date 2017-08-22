@@ -1,0 +1,17 @@
+{
+  "name": "resume-website",
+  "description": "",
+  "main": "index.html",
+  "license": "ISC",
+  "homepage": "https://github.com/bsloper/resume-website",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
